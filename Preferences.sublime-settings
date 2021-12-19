@@ -1,0 +1,24 @@
+{
+	"color_scheme": "Packages/Theme - Afterglow/Afterglow-twilight.tmTheme",
+	"font_face": "Droid Sans Mono Slashed",
+	"font_options":
+	[
+		"gray_antialias",
+		"no_italic"
+	],
+	"font_size": 9,
+	"ignored_packages":
+	[
+		"Six",
+		"Vintage",
+		"Vintageous",
+	],
+	"overlay_scroll_bars": "enabled",
+	"tabs_small": true,
+	"theme": "Afterglow.sublime-theme",
+	"update_check": false,
+	// "vintage_start_in_command_mode": true,
+	// "vintage_ctrl_keys": true,
+	"install_prereleases": ["NeoVintageous"],
+	"neovintageous_build_version": 11100,
+}
