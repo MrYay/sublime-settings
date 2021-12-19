@@ -3,7 +3,7 @@
        "keys": ["alt+1"],
        "command": "terminus_open",
        "args" : {
-           "cmd": "bash",
+           "cmd": "cmd.exe",
            "cwd": "${file_path:${folder}}",
            "panel_name": "Terminus"
        }
