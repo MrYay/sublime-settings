@@ -21,4 +21,7 @@
 	// "vintage_ctrl_keys": true,
 	"install_prereleases": ["NeoVintageous"],
 	"neovintageous_build_version": 11100,
+	"vintageous_enable_sneak": true,
+	"vintageous_use_sys_clipboard": true,
+	"vintageous_default_mode": "",
 }
