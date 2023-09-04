@@ -1,6 +1,7 @@
 {
-	"color_scheme": "Packages/Theme - Afterglow/Afterglow-twilight.tmTheme",
 	"font_face": "Droid Sans Mono Slashed",
+	"theme": "Afterglow.sublime-theme",
+    "color_scheme": "Packages/Theme - Afterglow/Afterglow.tmTheme",
 	"font_options":
 	[
 		"gray_antialias",
@@ -9,13 +10,26 @@
 	"font_size": 9,
 	"ignored_packages":
 	[
+		// "AutoHotkey",
+		// "ColorHelper",
+		"Compare Side-By-Side",
+		// "Markdown Extended",
+		// "MarkdownLivePreview",
+		// "Monokai - Spacegray",
+		// "NeoVintageous",
+		// "Origami",
+		"NeoVintageous",
+		// "Terminus",
+		// "Theme - Afterglow",
+		// "Vintage",
+		// "Vintageous",
 		"Six",
 		"Vintage",
 		"Vintageous",
 	],
 	"overlay_scroll_bars": "enabled",
 	"tabs_small": true,
-	"theme": "Afterglow.sublime-theme",
+	/*"theme": "Afterglow.sublime-theme",*/
 	"update_check": false,
 	// "vintage_start_in_command_mode": true,
 	// "vintage_ctrl_keys": true,
